@@ -3,7 +3,7 @@
 	Properties
 	{
 		_MainTex ("Texture", 2D) = "white" {}
-		_Param ("Center", vector ) = ( 0.5, 0.5, 1.0, 1.0 )//Center.x, Center.y, a,b
+		_Param ("Param(Center.x, Center.y, a, b)", vector ) = ( 0.5, 0.5, 1.0, 1.0 )//Center.x, Center.y, a,b
 	}
 	SubShader
 	{
